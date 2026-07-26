@@ -1,5 +1,6 @@
 /backent/target
 /backend/restaurant/target
+/backend/restaurant/src/main/resources/db.properties
 /frontend/psudoRestro/node_modules
 node_modules
 **/node_modules
